@@ -1,0 +1,1698 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 300" width="850" height="300">
+<style>
+text{font-family:"MS Gothic","Hiragino Kaku Gothic Pro","Yu Gothic",monospace;font-size:14px}
+.h{fill:#fff}
+.a{fill:#AAFFAA}
+.b{fill:#4AFF4A}
+.c{fill:#00FF41}
+.d{fill:#00EE38}
+.e{fill:#00CC2E}
+.f{fill:#00AA24;opacity:.7}
+.g{fill:#008018;opacity:.45}
+.i{fill:#005C12;opacity:.25}
+.j{fill:#003D0E;opacity:.12}
+@keyframes f{0%{transform:translateY(-300px)}100%{transform:translateY(300px)}}
+@keyframes m{0%,38%,42%,100%{opacity:inherit}40%{opacity:.1}}
+.c0{animation:f 9.02s linear -35.18s infinite;opacity:0.54}
+.c1{animation:f 9.55s linear -12.35s infinite;opacity:0.77}
+.c2{animation:f 7.82s linear -30.35s infinite;opacity:0.6}
+.c3{animation:f 5.65s linear -18.11s infinite;opacity:0.89}
+.c4{animation:f 6.71s linear -11.02s infinite;opacity:0.75}
+.c5{animation:f 9.93s linear -11.99s infinite;opacity:0.79}
+.c6{animation:f 10.76s linear -28.55s infinite;opacity:0.26}
+.c7{animation:f 10.16s linear -16.1s infinite;opacity:0.93}
+.c8{animation:f 8.45s linear -0.91s infinite;opacity:0.89}
+.c9{animation:f 10.06s linear -15.35s infinite;opacity:0.89}
+.c10{animation:f 9.38s linear -35.8s infinite;opacity:0.56}
+.c11{animation:f 5.94s linear -18.23s infinite;opacity:0.56}
+.c12{animation:f 9.0s linear -22.87s infinite;opacity:0.8}
+.c13{animation:f 6.97s linear -1.77s infinite;opacity:0.9}
+.c14{animation:f 6.44s linear -6.98s infinite;opacity:0.58}
+.c15{animation:f 10.94s linear -15.75s infinite;opacity:0.92}
+.c16{animation:f 10.14s linear -9.09s infinite;opacity:0.51}
+.c17{animation:f 7.23s linear -21.18s infinite;opacity:0.69}
+.c18{animation:f 10.32s linear -28.29s infinite;opacity:0.85}
+.c19{animation:f 10.53s linear -22.79s infinite;opacity:0.55}
+.c20{animation:f 8.59s linear -25.33s infinite;opacity:0.97}
+.c21{animation:f 7.7s linear -24.04s infinite;opacity:0.88}
+.c22{animation:f 6.0s linear -22.87s infinite;opacity:0.63}
+.c23{animation:f 9.86s linear -22.79s infinite;opacity:0.31}
+.c24{animation:f 10.98s linear -20.68s infinite;opacity:0.97}
+.c25{animation:f 5.56s linear -6.21s infinite;opacity:0.88}
+.c26{animation:f 6.97s linear -10.01s infinite;opacity:0.59}
+.c27{animation:f 8.0s linear -1.48s infinite;opacity:0.82}
+.c28{animation:f 8.25s linear -27.1s infinite;opacity:0.97}
+.c29{animation:f 7.14s linear -10.31s infinite;opacity:0.79}
+.c30{animation:f 9.69s linear -17.85s infinite;opacity:0.88}
+.c31{animation:f 5.5s linear -14.87s infinite;opacity:0.39}
+.c32{animation:f 10.33s linear -6.96s infinite;opacity:0.76}
+.c33{animation:f 10.33s linear -2.19s infinite;opacity:0.32}
+.c34{animation:f 5.88s linear -5.63s infinite;opacity:0.78}
+.c35{animation:f 8.11s linear -14.6s infinite;opacity:0.67}
+.c36{animation:f 7.83s linear -24.69s infinite;opacity:0.93}
+.c37{animation:f 6.61s linear -18.2s infinite;opacity:0.91}
+.c38{animation:f 7.91s linear -15.26s infinite;opacity:0.54}
+.c39{animation:f 7.36s linear -12.12s infinite;opacity:0.54}
+.c40{animation:f 5.89s linear -8.69s infinite;opacity:0.68}
+.c41{animation:f 10.23s linear -38.02s infinite;opacity:0.63}
+.c42{animation:f 6.68s linear -23.18s infinite;opacity:0.89}
+.c43{animation:f 8.1s linear -6.98s infinite;opacity:0.8}
+</style>
+<rect width="850" height="300" fill="#000"/>
+<g class="c0">
+<text x="9" y="0" class="i">ﾝ</text>
+<text x="9" y="16" class="g">ﾓ</text>
+<text x="9" y="32" class="f">ﾜ</text>
+<text x="9" y="48" class="e">ﾚ</text>
+<text x="9" y="64" class="e">ﾋ</text>
+<text x="9" y="80" class="d">ﾀ</text>
+<text x="9" y="96" class="c">ﾋ</text>
+<text x="9" y="112" class="c">ﾅ</text>
+<text x="9" y="128" class="d">ｧ</text>
+<text x="9" y="144" class="c">ﾉ</text>
+<text x="9" y="160" class="b">ﾝ</text>
+<text x="9" y="176" class="a">6</text>
+<text x="9" y="192" class="h">ｯ</text>
+<text x="9" y="320" class="i">ｲ</text>
+<text x="9" y="336" class="g">ｬ</text>
+<text x="9" y="352" class="g">ﾁ</text>
+<text x="9" y="368" class="f">ｳ</text>
+<text x="9" y="384" class="f">ﾙ</text>
+<text x="9" y="400" class="e">ｧ</text>
+<text x="9" y="416" class="e">6</text>
+<text x="9" y="432" class="e">ﾄ</text>
+<text x="9" y="448" class="c">ｫ</text>
+<text x="9" y="464" class="c">3</text>
+<text x="9" y="480" class="c">ｦ</text>
+<text x="9" y="496" class="c">6</text>
+<text x="9" y="512" class="c">ﾊ</text>
+<text x="9" y="528" class="d">ﾒ</text>
+<text x="9" y="544" class="d">ｬ</text>
+<text x="9" y="560" class="c">ﾁ</text>
+<text x="9" y="576" class="b">ｸ</text>
+<text x="9" y="592" class="a">ﾌ</text>
+<text x="9" y="608" class="h">ｳ</text>
+</g>
+<g class="c1">
+<text x="28" y="0" class="i">ﾎ</text>
+<text x="28" y="16" class="g">ｭ</text>
+<text x="28" y="32" class="f">ｬ</text>
+<text x="28" y="48" class="e">ｸ</text>
+<text x="28" y="64" class="e">5</text>
+<text x="28" y="80" class="c">ｭ</text>
+<text x="28" y="96" class="c">ﾚ</text>
+<text x="28" y="112" class="d">ｮ</text>
+<text x="28" y="128" class="c">ﾙ</text>
+<text x="28" y="144" class="b">1</text>
+<text x="28" y="160" class="a">ｶ</text>
+<text x="28" y="176" class="h">ﾅ</text>
+<text x="28" y="304" class="j">ｫ</text>
+<text x="28" y="320" class="i">ｽ</text>
+<text x="28" y="336" class="g">ｰ</text>
+<text x="28" y="352" class="g">ﾛ</text>
+<text x="28" y="368" class="f">ﾂ</text>
+<text x="28" y="384" class="f">ｸ</text>
+<text x="28" y="400" class="e">ｶ</text>
+<text x="28" y="416" class="e">7</text>
+<text x="28" y="432" class="e">ﾃ</text>
+<text x="28" y="448" class="c">ﾇ</text>
+<text x="28" y="464" class="d">ﾀ</text>
+<text x="28" y="480" class="c">6</text>
+<text x="28" y="496" class="c">ｧ</text>
+<text x="28" y="512" class="d">ｲ</text>
+<text x="28" y="528" class="c">ｮ</text>
+<text x="28" y="544" class="c">0</text>
+<text x="28" y="560" class="c">ﾕ</text>
+<text x="28" y="576" class="c">ﾘ</text>
+<text x="28" y="592" class="b">ﾌ</text>
+<text x="28" y="608" class="a">ｼ</text>
+<text x="28" y="624" class="h">ﾕ</text>
+</g>
+<g class="c2">
+<text x="47" y="0" class="j">ｧ</text>
+<text x="47" y="16" class="i">ﾃ</text>
+<text x="47" y="32" class="g">ﾖ</text>
+<text x="47" y="48" class="g">ｴ</text>
+<text x="47" y="64" class="f">ﾌ</text>
+<text x="47" y="80" class="f">7</text>
+<text x="47" y="96" class="e">ﾂ</text>
+<text x="47" y="112" class="e">0</text>
+<text x="47" y="128" class="e">ｴ</text>
+<text x="47" y="144" class="d">ｴ</text>
+<text x="47" y="160" class="c">ｻ</text>
+<text x="47" y="176" class="c">ﾀ</text>
+<text x="47" y="192" class="c">ｮ</text>
+<text x="47" y="208" class="c">ｱ</text>
+<text x="47" y="224" class="c" style="animation:m 3.4s steps(1) -1.8s infinite">ｫ</text>
+<text x="47" y="240" class="c">ｺ</text>
+<text x="47" y="256" class="d">ﾈ</text>
+<text x="47" y="272" class="c">ｴ</text>
+<text x="47" y="288" class="d">3</text>
+<text x="47" y="304" class="b">ｪ</text>
+<text x="47" y="320" class="a">ﾘ</text>
+<text x="47" y="336" class="h">ﾕ</text>
+<text x="47" y="448" class="j">ｸ</text>
+<text x="47" y="464" class="i">ﾝ</text>
+<text x="47" y="480" class="g">ｶ</text>
+<text x="47" y="496" class="g">ｫ</text>
+<text x="47" y="512" class="f">ﾍ</text>
+<text x="47" y="528" class="f">ﾔ</text>
+<text x="47" y="544" class="e">3</text>
+<text x="47" y="560" class="e" style="animation:m 2.4s steps(1) -1.6s infinite">ﾜ</text>
+<text x="47" y="576" class="e">ﾃ</text>
+<text x="47" y="592" class="d">1</text>
+<text x="47" y="608" class="d">ﾍ</text>
+<text x="47" y="624" class="c">ﾜ</text>
+<text x="47" y="640" class="c">0</text>
+</g>
+<g class="c3">
+<text x="66" y="0" class="i">6</text>
+<text x="66" y="16" class="g">ﾐ</text>
+<text x="66" y="32" class="f">ﾒ</text>
+<text x="66" y="48" class="f">7</text>
+<text x="66" y="64" class="e">ﾚ</text>
+<text x="66" y="80" class="e">ﾜ</text>
+<text x="66" y="96" class="c">ﾈ</text>
+<text x="66" y="112" class="d">ｳ</text>
+<text x="66" y="128" class="c">ﾛ</text>
+<text x="66" y="144" class="c">ﾖ</text>
+<text x="66" y="160" class="c">ﾍ</text>
+<text x="66" y="176" class="b">ﾝ</text>
+<text x="66" y="192" class="a">ﾃ</text>
+<text x="66" y="208" class="h">ﾂ</text>
+<text x="66" y="336" class="i">ｾ</text>
+<text x="66" y="352" class="g">ﾙ</text>
+<text x="66" y="368" class="f">ﾐ</text>
+<text x="66" y="384" class="e">ﾉ</text>
+<text x="66" y="400" class="e">ﾐ</text>
+<text x="66" y="416" class="d">ｯ</text>
+<text x="66" y="432" class="d">ﾐ</text>
+<text x="66" y="448" class="c">0</text>
+<text x="66" y="464" class="c">ｸ</text>
+<text x="66" y="480" class="b">ﾇ</text>
+<text x="66" y="496" class="a">ｪ</text>
+<text x="66" y="512" class="h">ｳ</text>
+<text x="66" y="640" class="j">ﾒ</text>
+</g>
+<g class="c4">
+<text x="85" y="0" class="j">ﾝ</text>
+<text x="85" y="16" class="i">ｻ</text>
+<text x="85" y="32" class="g">ｯ</text>
+<text x="85" y="48" class="g">ｴ</text>
+<text x="85" y="64" class="f">ﾗ</text>
+<text x="85" y="80" class="f">3</text>
+<text x="85" y="96" class="e">ｷ</text>
+<text x="85" y="112" class="e">ｫ</text>
+<text x="85" y="128" class="e">ｦ</text>
+<text x="85" y="144" class="e">ﾕ</text>
+<text x="85" y="160" class="d">8</text>
+<text x="85" y="176" class="d">ｿ</text>
+<text x="85" y="192" class="c">9</text>
+<text x="85" y="208" class="c">ｽ</text>
+<text x="85" y="224" class="c">ﾊ</text>
+<text x="85" y="240" class="d">ﾍ</text>
+<text x="85" y="256" class="c">ﾙ</text>
+<text x="85" y="272" class="d">ｶ</text>
+<text x="85" y="288" class="d">8</text>
+<text x="85" y="304" class="d">3</text>
+<text x="85" y="320" class="b">ｶ</text>
+<text x="85" y="336" class="a">ﾌ</text>
+<text x="85" y="352" class="h">ﾙ</text>
+<text x="85" y="432" class="i">ﾌ</text>
+<text x="85" y="448" class="g">ﾊ</text>
+<text x="85" y="464" class="g">ﾀ</text>
+<text x="85" y="480" class="f">ﾝ</text>
+<text x="85" y="496" class="f">ﾒ</text>
+<text x="85" y="512" class="e">ｸ</text>
+<text x="85" y="528" class="e">ﾏ</text>
+<text x="85" y="544" class="e">ｦ</text>
+<text x="85" y="560" class="d">ｪ</text>
+<text x="85" y="576" class="d">ｻ</text>
+<text x="85" y="592" class="c">ｯ</text>
+<text x="85" y="608" class="d">ﾐ</text>
+<text x="85" y="624" class="c">ﾄ</text>
+<text x="85" y="640" class="c" style="animation:m 2.1s steps(1) -2.6s infinite">ｸ</text>
+</g>
+<g class="c5">
+<text x="104" y="0" class="j">ｨ</text>
+<text x="104" y="16" class="i">ﾛ</text>
+<text x="104" y="32" class="g">1</text>
+<text x="104" y="48" class="g">ｾ</text>
+<text x="104" y="64" class="f">ｷ</text>
+<text x="104" y="80" class="f">ｾ</text>
+<text x="104" y="96" class="f">ﾉ</text>
+<text x="104" y="112" class="e">ﾇ</text>
+<text x="104" y="128" class="e">ﾙ</text>
+<text x="104" y="144" class="e">ﾁ</text>
+<text x="104" y="160" class="e">2</text>
+<text x="104" y="176" class="c">ﾑ</text>
+<text x="104" y="192" class="c">ﾔ</text>
+<text x="104" y="208" class="d">ｩ</text>
+<text x="104" y="224" class="c">5</text>
+<text x="104" y="240" class="c">ｷ</text>
+<text x="104" y="256" class="d">ｱ</text>
+<text x="104" y="272" class="d">ﾎ</text>
+<text x="104" y="288" class="c">ｼ</text>
+<text x="104" y="304" class="d">ﾜ</text>
+<text x="104" y="320" class="d">ｧ</text>
+<text x="104" y="336" class="d">ﾜ</text>
+<text x="104" y="352" class="b">ﾇ</text>
+<text x="104" y="368" class="a">ﾎ</text>
+<text x="104" y="384" class="h">ﾅ</text>
+<text x="104" y="432" class="j">ﾉ</text>
+<text x="104" y="448" class="i">ﾐ</text>
+<text x="104" y="464" class="g">ﾑ</text>
+<text x="104" y="480" class="g">ｰ</text>
+<text x="104" y="496" class="f">ｬ</text>
+<text x="104" y="512" class="f">ｾ</text>
+<text x="104" y="528" class="f">ﾄ</text>
+<text x="104" y="544" class="e">ﾉ</text>
+<text x="104" y="560" class="e">ﾉ</text>
+<text x="104" y="576" class="e">ﾈ</text>
+<text x="104" y="592" class="e">2</text>
+<text x="104" y="608" class="c">ｹ</text>
+<text x="104" y="624" class="d">ｹ</text>
+<text x="104" y="640" class="c">ﾛ</text>
+</g>
+<g class="c6">
+<text x="123" y="0" class="i">ﾛ</text>
+<text x="123" y="16" class="g">ｭ</text>
+<text x="123" y="32" class="g">ﾀ</text>
+<text x="123" y="48" class="f">ﾘ</text>
+<text x="123" y="64" class="f">ﾛ</text>
+<text x="123" y="80" class="e">ﾗ</text>
+<text x="123" y="96" class="e">ｸ</text>
+<text x="123" y="112" class="e">ｨ</text>
+<text x="123" y="128" class="d">ﾖ</text>
+<text x="123" y="144" class="c">ﾌ</text>
+<text x="123" y="160" class="c">ｲ</text>
+<text x="123" y="176" class="d">ﾔ</text>
+<text x="123" y="192" class="c">ｬ</text>
+<text x="123" y="208" class="c" style="animation:m 2.3s steps(1) -1.6s infinite">ｬ</text>
+<text x="123" y="224" class="c">ﾊ</text>
+<text x="123" y="240" class="c">5</text>
+<text x="123" y="256" class="d" style="animation:m 2.5s steps(1) -2.2s infinite">ｲ</text>
+<text x="123" y="272" class="b">ｩ</text>
+<text x="123" y="288" class="a">ｰ</text>
+<text x="123" y="304" class="h">ﾀ</text>
+<text x="123" y="400" class="i">ﾜ</text>
+<text x="123" y="416" class="g">ｩ</text>
+<text x="123" y="432" class="g">ｽ</text>
+<text x="123" y="448" class="f">ｬ</text>
+<text x="123" y="464" class="f">ﾇ</text>
+<text x="123" y="480" class="e">ﾖ</text>
+<text x="123" y="496" class="e">ｨ</text>
+<text x="123" y="512" class="e">ﾏ</text>
+<text x="123" y="528" class="c">ﾎ</text>
+<text x="123" y="544" class="c">ﾆ</text>
+<text x="123" y="560" class="c">ｨ</text>
+<text x="123" y="576" class="c">9</text>
+<text x="123" y="592" class="d">ｮ</text>
+<text x="123" y="608" class="d">ｫ</text>
+<text x="123" y="624" class="c">ｿ</text>
+<text x="123" y="640" class="b">ｽ</text>
+</g>
+<g class="c7">
+<text x="142" y="0" class="i">ｶ</text>
+<text x="142" y="16" class="g">ｪ</text>
+<text x="142" y="32" class="f">ﾃ</text>
+<text x="142" y="48" class="f">ｴ</text>
+<text x="142" y="64" class="e">ｶ</text>
+<text x="142" y="80" class="e">ｩ</text>
+<text x="142" y="96" class="c">ｻ</text>
+<text x="142" y="112" class="d">ﾉ</text>
+<text x="142" y="128" class="c">ﾍ</text>
+<text x="142" y="144" class="c">6</text>
+<text x="142" y="160" class="d">4</text>
+<text x="142" y="176" class="b">ﾘ</text>
+<text x="142" y="192" class="a">8</text>
+<text x="142" y="208" class="h">ﾉ</text>
+<text x="142" y="272" class="i">ｹ</text>
+<text x="142" y="288" class="g">ﾆ</text>
+<text x="142" y="304" class="f">ﾘ</text>
+<text x="142" y="320" class="f">ｾ</text>
+<text x="142" y="336" class="e">ﾅ</text>
+<text x="142" y="352" class="e">ﾐ</text>
+<text x="142" y="368" class="d">ｺ</text>
+<text x="142" y="384" class="d" style="animation:m 2.8s steps(1) -1.7s infinite">ﾒ</text>
+<text x="142" y="400" class="c">ｮ</text>
+<text x="142" y="416" class="c">ﾚ</text>
+<text x="142" y="432" class="c">ｳ</text>
+<text x="142" y="448" class="c">ｿ</text>
+<text x="142" y="464" class="b">ｨ</text>
+<text x="142" y="480" class="a">ﾈ</text>
+<text x="142" y="496" class="h">ｹ</text>
+<text x="142" y="544" class="i">ﾋ</text>
+<text x="142" y="560" class="g">ｰ</text>
+<text x="142" y="576" class="g">ﾁ</text>
+<text x="142" y="592" class="f">ﾈ</text>
+<text x="142" y="608" class="f">ｼ</text>
+<text x="142" y="624" class="e">ﾕ</text>
+<text x="142" y="640" class="e">ﾑ</text>
+</g>
+<g class="c8">
+<text x="161" y="0" class="i">ｹ</text>
+<text x="161" y="16" class="g">ﾈ</text>
+<text x="161" y="32" class="g">ﾏ</text>
+<text x="161" y="48" class="f">ﾛ</text>
+<text x="161" y="64" class="f">ﾅ</text>
+<text x="161" y="80" class="e">ﾘ</text>
+<text x="161" y="96" class="e">ﾉ</text>
+<text x="161" y="112" class="e">ﾅ</text>
+<text x="161" y="128" class="d">ｼ</text>
+<text x="161" y="144" class="c">ｩ</text>
+<text x="161" y="160" class="c">ｽ</text>
+<text x="161" y="176" class="c">ﾔ</text>
+<text x="161" y="192" class="c">0</text>
+<text x="161" y="208" class="c" style="animation:m 3.9s steps(1) -4.6s infinite">ｵ</text>
+<text x="161" y="224" class="d">ﾚ</text>
+<text x="161" y="240" class="b">ﾏ</text>
+<text x="161" y="256" class="a">ﾄ</text>
+<text x="161" y="272" class="h">ﾆ</text>
+<text x="161" y="400" class="i">ﾉ</text>
+<text x="161" y="416" class="g">ｬ</text>
+<text x="161" y="432" class="g">ｧ</text>
+<text x="161" y="448" class="f">ﾓ</text>
+<text x="161" y="464" class="f">ｨ</text>
+<text x="161" y="480" class="e">ｱ</text>
+<text x="161" y="496" class="e">ﾙ</text>
+<text x="161" y="512" class="e">ﾍ</text>
+<text x="161" y="528" class="c">ｪ</text>
+<text x="161" y="544" class="c">ﾜ</text>
+<text x="161" y="560" class="d">ﾐ</text>
+<text x="161" y="576" class="c">ﾈ</text>
+<text x="161" y="592" class="c">ｵ</text>
+<text x="161" y="608" class="c">ｵ</text>
+<text x="161" y="624" class="d">ｽ</text>
+<text x="161" y="640" class="d">ｫ</text>
+</g>
+<g class="c9">
+<text x="180" y="0" class="j">ｺ</text>
+<text x="180" y="16" class="i">ﾊ</text>
+<text x="180" y="32" class="g">ｲ</text>
+<text x="180" y="48" class="g">ﾘ</text>
+<text x="180" y="64" class="f">ｾ</text>
+<text x="180" y="80" class="f">ﾋ</text>
+<text x="180" y="96" class="e">ﾃ</text>
+<text x="180" y="112" class="e" style="animation:m 2.8s steps(1) -3.6s infinite">ﾌ</text>
+<text x="180" y="128" class="e">ｬ</text>
+<text x="180" y="144" class="d">8</text>
+<text x="180" y="160" class="c">ｳ</text>
+<text x="180" y="176" class="d">ﾊ</text>
+<text x="180" y="192" class="c">ﾑ</text>
+<text x="180" y="208" class="c">ﾆ</text>
+<text x="180" y="224" class="c">ｴ</text>
+<text x="180" y="240" class="c">ｬ</text>
+<text x="180" y="256" class="d">ﾅ</text>
+<text x="180" y="272" class="c">ﾕ</text>
+<text x="180" y="288" class="b">ﾌ</text>
+<text x="180" y="304" class="a">ｰ</text>
+<text x="180" y="320" class="h">ﾅ</text>
+<text x="180" y="432" class="i">ﾏ</text>
+<text x="180" y="448" class="g">ﾛ</text>
+<text x="180" y="464" class="f">ｻ</text>
+<text x="180" y="480" class="e">ｺ</text>
+<text x="180" y="496" class="e">ﾂ</text>
+<text x="180" y="512" class="c">ｧ</text>
+<text x="180" y="528" class="c">ﾜ</text>
+<text x="180" y="544" class="c">ﾍ</text>
+<text x="180" y="560" class="c">ｼ</text>
+<text x="180" y="576" class="c">9</text>
+<text x="180" y="592" class="b">ｾ</text>
+<text x="180" y="608" class="a">ﾁ</text>
+<text x="180" y="624" class="h">ﾇ</text>
+</g>
+<g class="c10">
+<text x="199" y="0" class="j">ｺ</text>
+<text x="199" y="16" class="i">ﾄ</text>
+<text x="199" y="32" class="g">ｼ</text>
+<text x="199" y="48" class="g">ｴ</text>
+<text x="199" y="64" class="f">ｯ</text>
+<text x="199" y="80" class="f">ｺ</text>
+<text x="199" y="96" class="e">ｦ</text>
+<text x="199" y="112" class="e">ﾆ</text>
+<text x="199" y="128" class="e" style="animation:m 2.2s steps(1) -3.6s infinite">ﾋ</text>
+<text x="199" y="144" class="c">ｯ</text>
+<text x="199" y="160" class="c">ﾒ</text>
+<text x="199" y="176" class="d">ﾂ</text>
+<text x="199" y="192" class="c">ﾜ</text>
+<text x="199" y="208" class="c">ﾀ</text>
+<text x="199" y="224" class="c">ﾗ</text>
+<text x="199" y="240" class="c">ｻ</text>
+<text x="199" y="256" class="d">ﾍ</text>
+<text x="199" y="272" class="c">ｦ</text>
+<text x="199" y="288" class="d">ﾌ</text>
+<text x="199" y="304" class="b">8</text>
+<text x="199" y="320" class="a">ﾈ</text>
+<text x="199" y="336" class="h">ｮ</text>
+<text x="199" y="384" class="i">ｦ</text>
+<text x="199" y="400" class="g">ｰ</text>
+<text x="199" y="416" class="g">ｺ</text>
+<text x="199" y="432" class="f">ｫ</text>
+<text x="199" y="448" class="f">1</text>
+<text x="199" y="464" class="e">ﾝ</text>
+<text x="199" y="480" class="e">ｻ</text>
+<text x="199" y="496" class="e">ｱ</text>
+<text x="199" y="512" class="d">ﾙ</text>
+<text x="199" y="528" class="d" style="animation:m 3.4s steps(1) -0.9s infinite">9</text>
+<text x="199" y="544" class="d">ｫ</text>
+<text x="199" y="560" class="c">ｪ</text>
+<text x="199" y="576" class="c">5</text>
+<text x="199" y="592" class="d">ﾝ</text>
+<text x="199" y="608" class="c">ｱ</text>
+<text x="199" y="624" class="c">ﾐ</text>
+<text x="199" y="640" class="c">ﾛ</text>
+</g>
+<g class="c11">
+<text x="218" y="0" class="i">ｭ</text>
+<text x="218" y="16" class="g">ﾊ</text>
+<text x="218" y="32" class="g">ﾂ</text>
+<text x="218" y="48" class="f">8</text>
+<text x="218" y="64" class="f">ﾙ</text>
+<text x="218" y="80" class="e">ﾖ</text>
+<text x="218" y="96" class="e">ｪ</text>
+<text x="218" y="112" class="e">ﾎ</text>
+<text x="218" y="128" class="c">ﾐ</text>
+<text x="218" y="144" class="d">ﾗ</text>
+<text x="218" y="160" class="d">ﾝ</text>
+<text x="218" y="176" class="c">ｬ</text>
+<text x="218" y="192" class="c">ｽ</text>
+<text x="218" y="208" class="d">ｦ</text>
+<text x="218" y="224" class="c">ﾈ</text>
+<text x="218" y="240" class="b">6</text>
+<text x="218" y="256" class="a">ﾊ</text>
+<text x="218" y="272" class="h">ｦ</text>
+<text x="218" y="400" class="j">ｬ</text>
+<text x="218" y="416" class="i">ｵ</text>
+<text x="218" y="432" class="g">ｩ</text>
+<text x="218" y="448" class="g">ｾ</text>
+<text x="218" y="464" class="g">ｻ</text>
+<text x="218" y="480" class="f">ﾔ</text>
+<text x="218" y="496" class="f">ﾄ</text>
+<text x="218" y="512" class="e">ﾈ</text>
+<text x="218" y="528" class="e" style="animation:m 2.5s steps(1) -3.9s infinite">ｴ</text>
+<text x="218" y="544" class="e">ﾙ</text>
+<text x="218" y="560" class="e">ｩ</text>
+<text x="218" y="576" class="d">ﾘ</text>
+<text x="218" y="592" class="d">ﾋ</text>
+<text x="218" y="608" class="c">ﾛ</text>
+<text x="218" y="624" class="c">ﾅ</text>
+<text x="218" y="640" class="c">ﾗ</text>
+</g>
+<g class="c12">
+<text x="237" y="0" class="j">ﾍ</text>
+<text x="237" y="16" class="i">0</text>
+<text x="237" y="32" class="g">ｷ</text>
+<text x="237" y="48" class="g">ﾜ</text>
+<text x="237" y="64" class="f">ｮ</text>
+<text x="237" y="80" class="f">ﾉ</text>
+<text x="237" y="96" class="e">ﾐ</text>
+<text x="237" y="112" class="e">ﾛ</text>
+<text x="237" y="128" class="e">ﾒ</text>
+<text x="237" y="144" class="c">ﾊ</text>
+<text x="237" y="160" class="d">ｸ</text>
+<text x="237" y="176" class="c">ﾜ</text>
+<text x="237" y="192" class="d">ｫ</text>
+<text x="237" y="208" class="d">ﾏ</text>
+<text x="237" y="224" class="c">7</text>
+<text x="237" y="240" class="c">ﾇ</text>
+<text x="237" y="256" class="c">ﾃ</text>
+<text x="237" y="272" class="c">ｫ</text>
+<text x="237" y="288" class="b">ｪ</text>
+<text x="237" y="304" class="a">ﾈ</text>
+<text x="237" y="320" class="h">4</text>
+<text x="237" y="432" class="j">ﾗ</text>
+<text x="237" y="448" class="i">ﾂ</text>
+<text x="237" y="464" class="g">ﾓ</text>
+<text x="237" y="480" class="g">ﾗ</text>
+<text x="237" y="496" class="f">ﾁ</text>
+<text x="237" y="512" class="f">ｹ</text>
+<text x="237" y="528" class="f">ｭ</text>
+<text x="237" y="544" class="e">ｪ</text>
+<text x="237" y="560" class="e">ｹ</text>
+<text x="237" y="576" class="e">ｲ</text>
+<text x="237" y="592" class="c">ｲ</text>
+<text x="237" y="608" class="c">ｧ</text>
+<text x="237" y="624" class="c">ﾝ</text>
+<text x="237" y="640" class="c">ｯ</text>
+</g>
+<g class="c13">
+<text x="256" y="0" class="i">ｽ</text>
+<text x="256" y="16" class="g">ﾆ</text>
+<text x="256" y="32" class="g">ﾘ</text>
+<text x="256" y="48" class="f">ﾁ</text>
+<text x="256" y="64" class="e">ｰ</text>
+<text x="256" y="80" class="e">ﾛ</text>
+<text x="256" y="96" class="e">ｲ</text>
+<text x="256" y="112" class="c">ｾ</text>
+<text x="256" y="128" class="c">ﾝ</text>
+<text x="256" y="144" class="d">ｮ</text>
+<text x="256" y="160" class="d">5</text>
+<text x="256" y="176" class="c">ﾍ</text>
+<text x="256" y="192" class="c">ﾏ</text>
+<text x="256" y="208" class="b">ﾝ</text>
+<text x="256" y="224" class="a">ｲ</text>
+<text x="256" y="240" class="h">ｦ</text>
+<text x="256" y="320" class="i">ﾌ</text>
+<text x="256" y="336" class="g">3</text>
+<text x="256" y="352" class="f">ｩ</text>
+<text x="256" y="368" class="f">ｫ</text>
+<text x="256" y="384" class="e">ﾏ</text>
+<text x="256" y="400" class="e">ﾋ</text>
+<text x="256" y="416" class="c">ｸ</text>
+<text x="256" y="432" class="c">ｶ</text>
+<text x="256" y="448" class="c">ｻ</text>
+<text x="256" y="464" class="d">ﾝ</text>
+<text x="256" y="480" class="d">ﾄ</text>
+<text x="256" y="496" class="b">ｸ</text>
+<text x="256" y="512" class="a">ｸ</text>
+<text x="256" y="528" class="h">ﾃ</text>
+</g>
+<g class="c14">
+<text x="275" y="0" class="i">ﾆ</text>
+<text x="275" y="16" class="g">ｨ</text>
+<text x="275" y="32" class="g">ﾆ</text>
+<text x="275" y="48" class="f">ﾃ</text>
+<text x="275" y="64" class="f">ｧ</text>
+<text x="275" y="80" class="e">3</text>
+<text x="275" y="96" class="e">3</text>
+<text x="275" y="112" class="e">ｳ</text>
+<text x="275" y="128" class="c">8</text>
+<text x="275" y="144" class="d">ﾌ</text>
+<text x="275" y="160" class="c">ﾆ</text>
+<text x="275" y="176" class="c">ｿ</text>
+<text x="275" y="192" class="c">ｳ</text>
+<text x="275" y="208" class="d">ﾓ</text>
+<text x="275" y="224" class="d" style="animation:m 3.6s steps(1) -3.0s infinite">ﾋ</text>
+<text x="275" y="240" class="c">ｶ</text>
+<text x="275" y="256" class="b">ﾑ</text>
+<text x="275" y="272" class="a">ﾍ</text>
+<text x="275" y="288" class="h">ｬ</text>
+<text x="275" y="416" class="j">ﾍ</text>
+<text x="275" y="432" class="i">ｭ</text>
+<text x="275" y="448" class="g">ﾘ</text>
+<text x="275" y="464" class="g">3</text>
+<text x="275" y="480" class="g">3</text>
+<text x="275" y="496" class="f">ﾊ</text>
+<text x="275" y="512" class="f">ﾑ</text>
+<text x="275" y="528" class="e">ﾔ</text>
+<text x="275" y="544" class="e">ﾔ</text>
+<text x="275" y="560" class="e">ｿ</text>
+<text x="275" y="576" class="e">ﾆ</text>
+<text x="275" y="592" class="d">ﾐ</text>
+<text x="275" y="608" class="c">ｾ</text>
+<text x="275" y="624" class="d" style="animation:m 3.5s steps(1) -4.8s infinite">ﾀ</text>
+<text x="275" y="640" class="c">ﾋ</text>
+</g>
+<g class="c15">
+<text x="294" y="0" class="j">ﾏ</text>
+<text x="294" y="16" class="i">ﾍ</text>
+<text x="294" y="32" class="g">ﾛ</text>
+<text x="294" y="48" class="g">ｼ</text>
+<text x="294" y="64" class="g">ｿ</text>
+<text x="294" y="80" class="f">ｶ</text>
+<text x="294" y="96" class="f">ﾒ</text>
+<text x="294" y="112" class="e">ｳ</text>
+<text x="294" y="128" class="e">ﾔ</text>
+<text x="294" y="144" class="e">4</text>
+<text x="294" y="160" class="e">ｻ</text>
+<text x="294" y="176" class="c">ﾕ</text>
+<text x="294" y="192" class="c">ﾔ</text>
+<text x="294" y="208" class="c">ｸ</text>
+<text x="294" y="224" class="c">ﾜ</text>
+<text x="294" y="240" class="d">ﾘ</text>
+<text x="294" y="256" class="d">ﾔ</text>
+<text x="294" y="272" class="c">ｧ</text>
+<text x="294" y="288" class="c">ｨ</text>
+<text x="294" y="304" class="d">ﾄ</text>
+<text x="294" y="320" class="c">ﾗ</text>
+<text x="294" y="336" class="c">ｳ</text>
+<text x="294" y="352" class="c">ｩ</text>
+<text x="294" y="368" class="b">8</text>
+<text x="294" y="384" class="a">ｵ</text>
+<text x="294" y="400" class="h">ﾏ</text>
+<text x="294" y="480" class="j">ﾂ</text>
+<text x="294" y="496" class="i">ﾀ</text>
+<text x="294" y="512" class="g">ｮ</text>
+<text x="294" y="528" class="g">ｿ</text>
+<text x="294" y="544" class="g">ﾗ</text>
+<text x="294" y="560" class="f">ｩ</text>
+<text x="294" y="576" class="f">4</text>
+<text x="294" y="592" class="e">ﾇ</text>
+<text x="294" y="608" class="e">ﾚ</text>
+<text x="294" y="624" class="e">ｫ</text>
+<text x="294" y="640" class="e">ﾌ</text>
+</g>
+<g class="c16">
+<text x="313" y="0" class="i">ﾄ</text>
+<text x="313" y="16" class="g">1</text>
+<text x="313" y="32" class="f">ｲ</text>
+<text x="313" y="48" class="e">ｷ</text>
+<text x="313" y="64" class="e">ﾕ</text>
+<text x="313" y="80" class="d">ﾇ</text>
+<text x="313" y="96" class="c">ｹ</text>
+<text x="313" y="112" class="c">1</text>
+<text x="313" y="128" class="c">ﾘ</text>
+<text x="313" y="144" class="c">8</text>
+<text x="313" y="160" class="b">ｪ</text>
+<text x="313" y="176" class="a">ﾆ</text>
+<text x="313" y="192" class="h">ﾕ</text>
+<text x="313" y="240" class="i">ｦ</text>
+<text x="313" y="256" class="g">9</text>
+<text x="313" y="272" class="f">ﾄ</text>
+<text x="313" y="288" class="f">ﾛ</text>
+<text x="313" y="304" class="e">ﾔ</text>
+<text x="313" y="320" class="e">ﾅ</text>
+<text x="313" y="336" class="d">ﾓ</text>
+<text x="313" y="352" class="c">ｾ</text>
+<text x="313" y="368" class="c">ｱ</text>
+<text x="313" y="384" class="d">ｿ</text>
+<text x="313" y="400" class="c">ｬ</text>
+<text x="313" y="416" class="c">ｶ</text>
+<text x="313" y="432" class="b">ﾀ</text>
+<text x="313" y="448" class="a">ｮ</text>
+<text x="313" y="464" class="h">ﾘ</text>
+<text x="313" y="560" class="j">ﾀ</text>
+<text x="313" y="576" class="i">ｹ</text>
+<text x="313" y="592" class="g">ﾁ</text>
+<text x="313" y="608" class="g">ﾖ</text>
+<text x="313" y="624" class="f">ﾝ</text>
+<text x="313" y="640" class="f">ﾃ</text>
+</g>
+<g class="c17">
+<text x="332" y="0" class="i">ﾒ</text>
+<text x="332" y="16" class="g">3</text>
+<text x="332" y="32" class="g">ｺ</text>
+<text x="332" y="48" class="f">ｦ</text>
+<text x="332" y="64" class="f">ﾉ</text>
+<text x="332" y="80" class="e">ﾛ</text>
+<text x="332" y="96" class="e">ｶ</text>
+<text x="332" y="112" class="c">ｴ</text>
+<text x="332" y="128" class="c" style="animation:m 3.5s steps(1) -3.8s infinite">ｶ</text>
+<text x="332" y="144" class="c">ｨ</text>
+<text x="332" y="160" class="c">ｶ</text>
+<text x="332" y="176" class="d">ｴ</text>
+<text x="332" y="192" class="c">ｧ</text>
+<text x="332" y="208" class="d">ｹ</text>
+<text x="332" y="224" class="b">ｮ</text>
+<text x="332" y="240" class="a">ﾂ</text>
+<text x="332" y="256" class="h">9</text>
+<text x="332" y="320" class="j">ﾋ</text>
+<text x="332" y="336" class="i">ﾒ</text>
+<text x="332" y="352" class="g">4</text>
+<text x="332" y="368" class="g">ﾜ</text>
+<text x="332" y="384" class="f">ﾂ</text>
+<text x="332" y="400" class="f">ｰ</text>
+<text x="332" y="416" class="e">ﾌ</text>
+<text x="332" y="432" class="e">ｩ</text>
+<text x="332" y="448" class="e">ｫ</text>
+<text x="332" y="464" class="c">ﾅ</text>
+<text x="332" y="480" class="d">4</text>
+<text x="332" y="496" class="c">ﾏ</text>
+<text x="332" y="512" class="c">ｶ</text>
+<text x="332" y="528" class="d">ｸ</text>
+<text x="332" y="544" class="c">ﾖ</text>
+<text x="332" y="560" class="d">ﾋ</text>
+<text x="332" y="576" class="d">ﾝ</text>
+<text x="332" y="592" class="d">ｴ</text>
+<text x="332" y="608" class="b">ﾁ</text>
+<text x="332" y="624" class="a">0</text>
+<text x="332" y="640" class="h">ﾐ</text>
+</g>
+<g class="c18">
+<text x="351" y="0" class="i">ﾜ</text>
+<text x="351" y="16" class="g">ﾁ</text>
+<text x="351" y="32" class="g">ﾝ</text>
+<text x="351" y="48" class="f">ｧ</text>
+<text x="351" y="64" class="f">1</text>
+<text x="351" y="80" class="e">ﾃ</text>
+<text x="351" y="96" class="e">ﾗ</text>
+<text x="351" y="112" class="e">ﾛ</text>
+<text x="351" y="128" class="c">ﾜ</text>
+<text x="351" y="144" class="c">ﾕ</text>
+<text x="351" y="160" class="d">6</text>
+<text x="351" y="176" class="c">ﾘ</text>
+<text x="351" y="192" class="c">ｲ</text>
+<text x="351" y="208" class="c">ﾕ</text>
+<text x="351" y="224" class="c">ｹ</text>
+<text x="351" y="240" class="d">ﾐ</text>
+<text x="351" y="256" class="c">ﾓ</text>
+<text x="351" y="272" class="b">8</text>
+<text x="351" y="288" class="a">ﾎ</text>
+<text x="351" y="304" class="h">ﾜ</text>
+<text x="351" y="432" class="j">ｬ</text>
+<text x="351" y="448" class="i">ﾊ</text>
+<text x="351" y="464" class="g">ｺ</text>
+<text x="351" y="480" class="g">ﾍ</text>
+<text x="351" y="496" class="f">ﾓ</text>
+<text x="351" y="512" class="f">ｳ</text>
+<text x="351" y="528" class="f">ｷ</text>
+<text x="351" y="544" class="e">ｮ</text>
+<text x="351" y="560" class="e">ﾂ</text>
+<text x="351" y="576" class="e">ﾚ</text>
+<text x="351" y="592" class="e">ﾚ</text>
+<text x="351" y="608" class="c">ﾏ</text>
+<text x="351" y="624" class="c">ﾕ</text>
+<text x="351" y="640" class="d">ﾐ</text>
+</g>
+<g class="c19">
+<text x="370" y="0" class="j">ﾀ</text>
+<text x="370" y="16" class="i">ｵ</text>
+<text x="370" y="32" class="g">ｩ</text>
+<text x="370" y="48" class="g">ｻ</text>
+<text x="370" y="64" class="f">6</text>
+<text x="370" y="80" class="f">ﾂ</text>
+<text x="370" y="96" class="e">ﾘ</text>
+<text x="370" y="112" class="e">ｩ</text>
+<text x="370" y="128" class="e">ﾇ</text>
+<text x="370" y="144" class="c" style="animation:m 3.7s steps(1) -2.2s infinite">ﾒ</text>
+<text x="370" y="160" class="c">ｮ</text>
+<text x="370" y="176" class="d">ｩ</text>
+<text x="370" y="192" class="d">ﾁ</text>
+<text x="370" y="208" class="c">ﾑ</text>
+<text x="370" y="224" class="c">ﾊ</text>
+<text x="370" y="240" class="d">ｺ</text>
+<text x="370" y="256" class="c">ｹ</text>
+<text x="370" y="272" class="d">ｬ</text>
+<text x="370" y="288" class="b">ﾈ</text>
+<text x="370" y="304" class="a">ｦ</text>
+<text x="370" y="320" class="h">ﾂ</text>
+<text x="370" y="448" class="i">ｻ</text>
+<text x="370" y="464" class="g">ｦ</text>
+<text x="370" y="480" class="g">ﾛ</text>
+<text x="370" y="496" class="f">ﾈ</text>
+<text x="370" y="512" class="f">ﾁ</text>
+<text x="370" y="528" class="e">ﾎ</text>
+<text x="370" y="544" class="e">ﾒ</text>
+<text x="370" y="560" class="e">ﾊ</text>
+<text x="370" y="576" class="d">ｬ</text>
+<text x="370" y="592" class="c">ｫ</text>
+<text x="370" y="608" class="d" style="animation:m 2.3s steps(1) -3.9s infinite">ｭ</text>
+<text x="370" y="624" class="c">ﾏ</text>
+<text x="370" y="640" class="c" style="animation:m 3.4s steps(1) -4.1s infinite">ｵ</text>
+</g>
+<g class="c20">
+<text x="389" y="0" class="i">ﾈ</text>
+<text x="389" y="16" class="g">ﾃ</text>
+<text x="389" y="32" class="g">ｮ</text>
+<text x="389" y="48" class="f">ｵ</text>
+<text x="389" y="64" class="f">ﾘ</text>
+<text x="389" y="80" class="e">ﾃ</text>
+<text x="389" y="96" class="e">ｯ</text>
+<text x="389" y="112" class="e" style="animation:m 1.5s steps(1) -0.4s infinite">ﾌ</text>
+<text x="389" y="128" class="c">ｷ</text>
+<text x="389" y="144" class="c">ﾈ</text>
+<text x="389" y="160" class="c">ｴ</text>
+<text x="389" y="176" class="c">ｻ</text>
+<text x="389" y="192" class="d">ｨ</text>
+<text x="389" y="208" class="c">ｱ</text>
+<text x="389" y="224" class="c">ﾅ</text>
+<text x="389" y="240" class="b">ﾙ</text>
+<text x="389" y="256" class="a">ｱ</text>
+<text x="389" y="272" class="h">ｰ</text>
+<text x="389" y="384" class="i">ﾍ</text>
+<text x="389" y="400" class="g">ﾑ</text>
+<text x="389" y="416" class="g">ﾂ</text>
+<text x="389" y="432" class="f">ﾐ</text>
+<text x="389" y="448" class="f">ﾑ</text>
+<text x="389" y="464" class="e">ｻ</text>
+<text x="389" y="480" class="e">ｿ</text>
+<text x="389" y="496" class="e">ｯ</text>
+<text x="389" y="512" class="c">ﾒ</text>
+<text x="389" y="528" class="d">ﾖ</text>
+<text x="389" y="544" class="c">ｸ</text>
+<text x="389" y="560" class="c">ｻ</text>
+<text x="389" y="576" class="d">ｯ</text>
+<text x="389" y="592" class="d">ｭ</text>
+<text x="389" y="608" class="d">ﾏ</text>
+<text x="389" y="624" class="b">ﾅ</text>
+<text x="389" y="640" class="a">6</text>
+</g>
+<g class="c21">
+<text x="408" y="0" class="j">ﾀ</text>
+<text x="408" y="16" class="i">ｿ</text>
+<text x="408" y="32" class="g">ｽ</text>
+<text x="408" y="48" class="g">ﾏ</text>
+<text x="408" y="64" class="g">ﾜ</text>
+<text x="408" y="80" class="f">ｾ</text>
+<text x="408" y="96" class="f">ﾎ</text>
+<text x="408" y="112" class="e">ｹ</text>
+<text x="408" y="128" class="e">ｪ</text>
+<text x="408" y="144" class="e">ﾌ</text>
+<text x="408" y="160" class="e">ｹ</text>
+<text x="408" y="176" class="d">ｯ</text>
+<text x="408" y="192" class="c">ｪ</text>
+<text x="408" y="208" class="c">ｯ</text>
+<text x="408" y="224" class="c">ｼ</text>
+<text x="408" y="240" class="c">ｩ</text>
+<text x="408" y="256" class="d" style="animation:m 3.8s steps(1) -2.1s infinite">2</text>
+<text x="408" y="272" class="c">ﾏ</text>
+<text x="408" y="288" class="d">ｹ</text>
+<text x="408" y="304" class="c">ｳ</text>
+<text x="408" y="320" class="c">ﾉ</text>
+<text x="408" y="336" class="d" style="animation:m 3.3s steps(1) -0.0s infinite">ｼ</text>
+<text x="408" y="352" class="d">ｰ</text>
+<text x="408" y="368" class="b">ﾔ</text>
+<text x="408" y="384" class="a">ﾕ</text>
+<text x="408" y="400" class="h">5</text>
+<text x="408" y="512" class="i">ﾚ</text>
+<text x="408" y="528" class="g">ﾑ</text>
+<text x="408" y="544" class="g">ﾑ</text>
+<text x="408" y="560" class="f">ﾄ</text>
+<text x="408" y="576" class="e">ｺ</text>
+<text x="408" y="592" class="e">ｾ</text>
+<text x="408" y="608" class="e">ｮ</text>
+<text x="408" y="624" class="d">ﾄ</text>
+<text x="408" y="640" class="c">ﾊ</text>
+</g>
+<g class="c22">
+<text x="427" y="0" class="j">ﾝ</text>
+<text x="427" y="16" class="i">ｹ</text>
+<text x="427" y="32" class="g">ﾐ</text>
+<text x="427" y="48" class="g">ｰ</text>
+<text x="427" y="64" class="g">ｸ</text>
+<text x="427" y="80" class="f">ﾂ</text>
+<text x="427" y="96" class="f">ｸ</text>
+<text x="427" y="112" class="e">5</text>
+<text x="427" y="128" class="e">ﾁ</text>
+<text x="427" y="144" class="e">ﾘ</text>
+<text x="427" y="160" class="e">ﾈ</text>
+<text x="427" y="176" class="c">ｵ</text>
+<text x="427" y="192" class="c">ﾖ</text>
+<text x="427" y="208" class="d">ﾘ</text>
+<text x="427" y="224" class="d">4</text>
+<text x="427" y="240" class="d">ﾃ</text>
+<text x="427" y="256" class="c">ｨ</text>
+<text x="427" y="272" class="c">9</text>
+<text x="427" y="288" class="c">ｾ</text>
+<text x="427" y="304" class="c">ｹ</text>
+<text x="427" y="320" class="c">ｮ</text>
+<text x="427" y="336" class="d">1</text>
+<text x="427" y="352" class="d">ﾑ</text>
+<text x="427" y="368" class="b">ｽ</text>
+<text x="427" y="384" class="a">ｶ</text>
+<text x="427" y="400" class="h">ｺ</text>
+<text x="427" y="512" class="i">ｺ</text>
+<text x="427" y="528" class="g">ｽ</text>
+<text x="427" y="544" class="g">ﾘ</text>
+<text x="427" y="560" class="f">ﾆ</text>
+<text x="427" y="576" class="f">ﾐ</text>
+<text x="427" y="592" class="e">ｽ</text>
+<text x="427" y="608" class="e">ｻ</text>
+<text x="427" y="624" class="e">ｫ</text>
+<text x="427" y="640" class="d">ﾊ</text>
+</g>
+<g class="c23">
+<text x="446" y="0" class="i">ﾊ</text>
+<text x="446" y="16" class="g">ﾎ</text>
+<text x="446" y="32" class="g">ﾍ</text>
+<text x="446" y="48" class="f">ﾒ</text>
+<text x="446" y="64" class="f">ｧ</text>
+<text x="446" y="80" class="e">ﾃ</text>
+<text x="446" y="96" class="e">ﾍ</text>
+<text x="446" y="112" class="e">ﾒ</text>
+<text x="446" y="128" class="c">ﾕ</text>
+<text x="446" y="144" class="d">ｦ</text>
+<text x="446" y="160" class="c">ﾑ</text>
+<text x="446" y="176" class="d">ﾛ</text>
+<text x="446" y="192" class="c">ﾔ</text>
+<text x="446" y="208" class="c">ｬ</text>
+<text x="446" y="224" class="c">ｴ</text>
+<text x="446" y="240" class="d">ﾚ</text>
+<text x="446" y="256" class="b">ｵ</text>
+<text x="446" y="272" class="a">ﾊ</text>
+<text x="446" y="288" class="h">ｰ</text>
+<text x="446" y="400" class="j">ﾈ</text>
+<text x="446" y="416" class="i">ｧ</text>
+<text x="446" y="432" class="g">3</text>
+<text x="446" y="448" class="g">ｯ</text>
+<text x="446" y="464" class="f">ｸ</text>
+<text x="446" y="480" class="f">ﾘ</text>
+<text x="446" y="496" class="f">ﾝ</text>
+<text x="446" y="512" class="e">ｱ</text>
+<text x="446" y="528" class="e">ﾂ</text>
+<text x="446" y="544" class="e">1</text>
+<text x="446" y="560" class="c">ﾛ</text>
+<text x="446" y="576" class="d">ﾕ</text>
+<text x="446" y="592" class="c">ﾕ</text>
+<text x="446" y="608" class="c">7</text>
+<text x="446" y="624" class="d">ﾁ</text>
+<text x="446" y="640" class="c" style="animation:m 3.8s steps(1) -2.6s infinite">ｷ</text>
+</g>
+<g class="c24">
+<text x="465" y="0" class="j">ﾏ</text>
+<text x="465" y="16" class="i">ﾈ</text>
+<text x="465" y="32" class="g">ｪ</text>
+<text x="465" y="48" class="g">ｧ</text>
+<text x="465" y="64" class="f">ｼ</text>
+<text x="465" y="80" class="f">ｦ</text>
+<text x="465" y="96" class="f">3</text>
+<text x="465" y="112" class="e" style="animation:m 2.0s steps(1) -4.3s infinite">ｰ</text>
+<text x="465" y="128" class="e">8</text>
+<text x="465" y="144" class="e">ｱ</text>
+<text x="465" y="160" class="e">ﾑ</text>
+<text x="465" y="176" class="c" style="animation:m 2.5s steps(1) -1.0s infinite">ｵ</text>
+<text x="465" y="192" class="c">ｮ</text>
+<text x="465" y="208" class="c">ｺ</text>
+<text x="465" y="224" class="d">ｯ</text>
+<text x="465" y="240" class="d">ｸ</text>
+<text x="465" y="256" class="c">ｼ</text>
+<text x="465" y="272" class="d">ﾛ</text>
+<text x="465" y="288" class="d">ｰ</text>
+<text x="465" y="304" class="c">ｮ</text>
+<text x="465" y="320" class="d">ｮ</text>
+<text x="465" y="336" class="d" style="animation:m 3.7s steps(1) -4.8s infinite">ｴ</text>
+<text x="465" y="352" class="b">ﾗ</text>
+<text x="465" y="368" class="a">ﾕ</text>
+<text x="465" y="384" class="h">ﾆ</text>
+<text x="465" y="448" class="j">ﾓ</text>
+<text x="465" y="464" class="i">ﾒ</text>
+<text x="465" y="480" class="g">ｮ</text>
+<text x="465" y="496" class="g">ﾒ</text>
+<text x="465" y="512" class="f">ﾄ</text>
+<text x="465" y="528" class="f">ﾋ</text>
+<text x="465" y="544" class="e">ﾂ</text>
+<text x="465" y="560" class="e">ﾐ</text>
+<text x="465" y="576" class="e">ﾎ</text>
+<text x="465" y="592" class="e">ｫ</text>
+<text x="465" y="608" class="c">ﾖ</text>
+<text x="465" y="624" class="d">ｩ</text>
+<text x="465" y="640" class="c">ｾ</text>
+</g>
+<g class="c25">
+<text x="484" y="0" class="i">ﾉ</text>
+<text x="484" y="16" class="g">ﾑ</text>
+<text x="484" y="32" class="f">8</text>
+<text x="484" y="48" class="f">ｨ</text>
+<text x="484" y="64" class="e">ｪ</text>
+<text x="484" y="80" class="e">ｫ</text>
+<text x="484" y="96" class="c">ﾎ</text>
+<text x="484" y="112" class="d">ﾘ</text>
+<text x="484" y="128" class="d">ｪ</text>
+<text x="484" y="144" class="d">ｾ</text>
+<text x="484" y="160" class="c">ﾜ</text>
+<text x="484" y="176" class="b">ﾈ</text>
+<text x="484" y="192" class="a">ｵ</text>
+<text x="484" y="208" class="h">ﾔ</text>
+<text x="484" y="256" class="i">1</text>
+<text x="484" y="272" class="g">ﾙ</text>
+<text x="484" y="288" class="g">ﾍ</text>
+<text x="484" y="304" class="f">ｦ</text>
+<text x="484" y="320" class="f">2</text>
+<text x="484" y="336" class="e">ﾗ</text>
+<text x="484" y="352" class="e">ｽ</text>
+<text x="484" y="368" class="c">ﾕ</text>
+<text x="484" y="384" class="d">ﾈ</text>
+<text x="484" y="400" class="d">ﾜ</text>
+<text x="484" y="416" class="d">ﾗ</text>
+<text x="484" y="432" class="c">ﾏ</text>
+<text x="484" y="448" class="c">ﾂ</text>
+<text x="484" y="464" class="c">ｻ</text>
+<text x="484" y="480" class="b">ｻ</text>
+<text x="484" y="496" class="a">ﾆ</text>
+<text x="484" y="512" class="h">ｦ</text>
+<text x="484" y="608" class="i">ｫ</text>
+<text x="484" y="624" class="g">ﾋ</text>
+<text x="484" y="640" class="g">ﾝ</text>
+</g>
+<g class="c26">
+<text x="503" y="0" class="j">ｼ</text>
+<text x="503" y="16" class="i">ﾝ</text>
+<text x="503" y="32" class="g">ﾉ</text>
+<text x="503" y="48" class="g">ｿ</text>
+<text x="503" y="64" class="g">ﾓ</text>
+<text x="503" y="80" class="f">9</text>
+<text x="503" y="96" class="f">ｭ</text>
+<text x="503" y="112" class="e">ｯ</text>
+<text x="503" y="128" class="e">ﾙ</text>
+<text x="503" y="144" class="e">ﾔ</text>
+<text x="503" y="160" class="e">ｺ</text>
+<text x="503" y="176" class="c">ﾚ</text>
+<text x="503" y="192" class="c">ｪ</text>
+<text x="503" y="208" class="c">ﾑ</text>
+<text x="503" y="224" class="c">ﾗ</text>
+<text x="503" y="240" class="c">ｻ</text>
+<text x="503" y="256" class="c">9</text>
+<text x="503" y="272" class="c">ﾏ</text>
+<text x="503" y="288" class="c">ｱ</text>
+<text x="503" y="304" class="c">ﾁ</text>
+<text x="503" y="320" class="c">ｩ</text>
+<text x="503" y="336" class="c">ｰ</text>
+<text x="503" y="352" class="d">ｵ</text>
+<text x="503" y="368" class="b">ﾇ</text>
+<text x="503" y="384" class="a">ﾈ</text>
+<text x="503" y="400" class="h">ｧ</text>
+<text x="503" y="480" class="i">ﾊ</text>
+<text x="503" y="496" class="g">ﾆ</text>
+<text x="503" y="512" class="f">5</text>
+<text x="503" y="528" class="f">ｬ</text>
+<text x="503" y="544" class="e">ｿ</text>
+<text x="503" y="560" class="e">ﾛ</text>
+<text x="503" y="576" class="c">3</text>
+<text x="503" y="592" class="c">ﾕ</text>
+<text x="503" y="608" class="c">ﾃ</text>
+<text x="503" y="624" class="c">ｴ</text>
+<text x="503" y="640" class="c">ﾚ</text>
+</g>
+<g class="c27">
+<text x="522" y="0" class="j">ｿ</text>
+<text x="522" y="16" class="i">ｼ</text>
+<text x="522" y="32" class="g">ﾓ</text>
+<text x="522" y="48" class="g">ﾔ</text>
+<text x="522" y="64" class="f">ｯ</text>
+<text x="522" y="80" class="f">ﾂ</text>
+<text x="522" y="96" class="e">ｵ</text>
+<text x="522" y="112" class="e">ﾓ</text>
+<text x="522" y="128" class="e">ﾓ</text>
+<text x="522" y="144" class="e">ﾔ</text>
+<text x="522" y="160" class="c">ｩ</text>
+<text x="522" y="176" class="d">ｶ</text>
+<text x="522" y="192" class="c">ｮ</text>
+<text x="522" y="208" class="d">ﾊ</text>
+<text x="522" y="224" class="c">ﾐ</text>
+<text x="522" y="240" class="d">ｯ</text>
+<text x="522" y="256" class="c">ﾀ</text>
+<text x="522" y="272" class="c">ﾅ</text>
+<text x="522" y="288" class="c">0</text>
+<text x="522" y="304" class="d">ｿ</text>
+<text x="522" y="320" class="b">ﾐ</text>
+<text x="522" y="336" class="a">ｶ</text>
+<text x="522" y="352" class="h">ﾝ</text>
+<text x="522" y="480" class="i">ﾘ</text>
+<text x="522" y="496" class="g">ｵ</text>
+<text x="522" y="512" class="g">ｰ</text>
+<text x="522" y="528" class="f">ｹ</text>
+<text x="522" y="544" class="f">ﾌ</text>
+<text x="522" y="560" class="e">ｻ</text>
+<text x="522" y="576" class="e">7</text>
+<text x="522" y="592" class="e">ﾒ</text>
+<text x="522" y="608" class="d">2</text>
+<text x="522" y="624" class="c">ﾆ</text>
+<text x="522" y="640" class="d">ﾉ</text>
+</g>
+<g class="c28">
+<text x="541" y="0" class="i">ｲ</text>
+<text x="541" y="16" class="g">ｱ</text>
+<text x="541" y="32" class="g">ｮ</text>
+<text x="541" y="48" class="f">ﾀ</text>
+<text x="541" y="64" class="e">ｻ</text>
+<text x="541" y="80" class="e">ｸ</text>
+<text x="541" y="96" class="e">ﾂ</text>
+<text x="541" y="112" class="d">ﾑ</text>
+<text x="541" y="128" class="d">ｫ</text>
+<text x="541" y="144" class="c" style="animation:m 3.1s steps(1) -2.1s infinite">ｰ</text>
+<text x="541" y="160" class="d">ﾀ</text>
+<text x="541" y="176" class="c">ｽ</text>
+<text x="541" y="192" class="c">1</text>
+<text x="541" y="208" class="b">ﾋ</text>
+<text x="541" y="224" class="a">ﾀ</text>
+<text x="541" y="240" class="h">ﾌ</text>
+<text x="541" y="352" class="i">ﾕ</text>
+<text x="541" y="368" class="g">ﾕ</text>
+<text x="541" y="384" class="g">ﾅ</text>
+<text x="541" y="400" class="f">ﾙ</text>
+<text x="541" y="416" class="f">ﾌ</text>
+<text x="541" y="432" class="e">ｨ</text>
+<text x="541" y="448" class="e">ｭ</text>
+<text x="541" y="464" class="e">ﾛ</text>
+<text x="541" y="480" class="c">ﾑ</text>
+<text x="541" y="496" class="c">ﾜ</text>
+<text x="541" y="512" class="d">ﾜ</text>
+<text x="541" y="528" class="c">ｶ</text>
+<text x="541" y="544" class="d">ｵ</text>
+<text x="541" y="560" class="c">ｩ</text>
+<text x="541" y="576" class="c">ﾅ</text>
+<text x="541" y="592" class="c">ﾋ</text>
+<text x="541" y="608" class="b">ﾜ</text>
+<text x="541" y="624" class="a">ｼ</text>
+<text x="541" y="640" class="h">ﾛ</text>
+</g>
+<g class="c29">
+<text x="560" y="0" class="i">ﾖ</text>
+<text x="560" y="16" class="g">ﾏ</text>
+<text x="560" y="32" class="f">7</text>
+<text x="560" y="48" class="f">ｷ</text>
+<text x="560" y="64" class="e">ﾊ</text>
+<text x="560" y="80" class="e">ﾏ</text>
+<text x="560" y="96" class="d">ｩ</text>
+<text x="560" y="112" class="c" style="animation:m 3.9s steps(1) -2.5s infinite">ｭ</text>
+<text x="560" y="128" class="c">ﾁ</text>
+<text x="560" y="144" class="c">ｬ</text>
+<text x="560" y="160" class="d">0</text>
+<text x="560" y="176" class="d">ｪ</text>
+<text x="560" y="192" class="b">ｧ</text>
+<text x="560" y="208" class="a">ﾚ</text>
+<text x="560" y="224" class="h">ｳ</text>
+<text x="560" y="288" class="i">0</text>
+<text x="560" y="304" class="g">ﾇ</text>
+<text x="560" y="320" class="g">ﾋ</text>
+<text x="560" y="336" class="f">ﾔ</text>
+<text x="560" y="352" class="f">ﾏ</text>
+<text x="560" y="368" class="e">ﾙ</text>
+<text x="560" y="384" class="e">ﾙ</text>
+<text x="560" y="400" class="e">ｵ</text>
+<text x="560" y="416" class="d">ﾊ</text>
+<text x="560" y="432" class="d">ｧ</text>
+<text x="560" y="448" class="c">ﾗ</text>
+<text x="560" y="464" class="d">ｼ</text>
+<text x="560" y="480" class="c">ﾘ</text>
+<text x="560" y="496" class="c">ｵ</text>
+<text x="560" y="512" class="c">ｿ</text>
+<text x="560" y="528" class="b">ﾙ</text>
+<text x="560" y="544" class="a">ｮ</text>
+<text x="560" y="560" class="h">ｫ</text>
+<text x="560" y="624" class="i">ｷ</text>
+<text x="560" y="640" class="g">ﾉ</text>
+</g>
+<g class="c30">
+<text x="579" y="0" class="i">ｰ</text>
+<text x="579" y="16" class="g">ｨ</text>
+<text x="579" y="32" class="g">ｹ</text>
+<text x="579" y="48" class="f">ｻ</text>
+<text x="579" y="64" class="f">2</text>
+<text x="579" y="80" class="e">ｯ</text>
+<text x="579" y="96" class="e">7</text>
+<text x="579" y="112" class="c">ﾘ</text>
+<text x="579" y="128" class="d">ﾙ</text>
+<text x="579" y="144" class="c">ｮ</text>
+<text x="579" y="160" class="d">ｬ</text>
+<text x="579" y="176" class="c">ｪ</text>
+<text x="579" y="192" class="c">ﾐ</text>
+<text x="579" y="208" class="c">ｸ</text>
+<text x="579" y="224" class="b">3</text>
+<text x="579" y="240" class="a">ﾊ</text>
+<text x="579" y="256" class="h">ﾝ</text>
+<text x="579" y="352" class="j">ｩ</text>
+<text x="579" y="368" class="i">ｺ</text>
+<text x="579" y="384" class="g">ｪ</text>
+<text x="579" y="400" class="g">ﾇ</text>
+<text x="579" y="416" class="f">ﾁ</text>
+<text x="579" y="432" class="f">ﾒ</text>
+<text x="579" y="448" class="e">ﾑ</text>
+<text x="579" y="464" class="e">ﾃ</text>
+<text x="579" y="480" class="e">ｸ</text>
+<text x="579" y="496" class="e">ｱ</text>
+<text x="579" y="512" class="d">ﾑ</text>
+<text x="579" y="528" class="c">ﾗ</text>
+<text x="579" y="544" class="c">ｷ</text>
+<text x="579" y="560" class="c" style="animation:m 2.3s steps(1) -4.2s infinite">ｾ</text>
+<text x="579" y="576" class="d">ﾀ</text>
+<text x="579" y="592" class="d">5</text>
+<text x="579" y="608" class="d">ﾋ</text>
+<text x="579" y="624" class="c">ｰ</text>
+<text x="579" y="640" class="c">ﾂ</text>
+</g>
+<g class="c31">
+<text x="598" y="0" class="i">ｼ</text>
+<text x="598" y="16" class="g">ｨ</text>
+<text x="598" y="32" class="g">4</text>
+<text x="598" y="48" class="f">ｲ</text>
+<text x="598" y="64" class="f">ﾑ</text>
+<text x="598" y="80" class="e">ｳ</text>
+<text x="598" y="96" class="e">ﾐ</text>
+<text x="598" y="112" class="e">ﾅ</text>
+<text x="598" y="128" class="d">ﾇ</text>
+<text x="598" y="144" class="c">ﾅ</text>
+<text x="598" y="160" class="c">ﾂ</text>
+<text x="598" y="176" class="c">ﾐ</text>
+<text x="598" y="192" class="c">ﾆ</text>
+<text x="598" y="208" class="c">ｫ</text>
+<text x="598" y="224" class="d">ﾉ</text>
+<text x="598" y="240" class="b">ｷ</text>
+<text x="598" y="256" class="a">ﾄ</text>
+<text x="598" y="272" class="h">ｳ</text>
+<text x="598" y="352" class="i">ﾖ</text>
+<text x="598" y="368" class="g">ﾒ</text>
+<text x="598" y="384" class="g">ﾐ</text>
+<text x="598" y="400" class="f">ﾔ</text>
+<text x="598" y="416" class="f">ｸ</text>
+<text x="598" y="432" class="e" style="animation:m 3.9s steps(1) -4.6s infinite">ﾋ</text>
+<text x="598" y="448" class="e">6</text>
+<text x="598" y="464" class="e">ﾆ</text>
+<text x="598" y="480" class="c">ｿ</text>
+<text x="598" y="496" class="c">7</text>
+<text x="598" y="512" class="c">ｷ</text>
+<text x="598" y="528" class="d">ｹ</text>
+<text x="598" y="544" class="c">ﾃ</text>
+<text x="598" y="560" class="c">ｿ</text>
+<text x="598" y="576" class="c">ﾚ</text>
+<text x="598" y="592" class="b">ｪ</text>
+<text x="598" y="608" class="a">ｲ</text>
+<text x="598" y="624" class="h">ﾅ</text>
+</g>
+<g class="c32">
+<text x="617" y="0" class="j">ｦ</text>
+<text x="617" y="16" class="i">ｴ</text>
+<text x="617" y="32" class="g">6</text>
+<text x="617" y="48" class="g">ｺ</text>
+<text x="617" y="64" class="f">ﾚ</text>
+<text x="617" y="80" class="f">ﾁ</text>
+<text x="617" y="96" class="f">7</text>
+<text x="617" y="112" class="e">0</text>
+<text x="617" y="128" class="e">ｫ</text>
+<text x="617" y="144" class="e">ﾎ</text>
+<text x="617" y="160" class="c">ﾊ</text>
+<text x="617" y="176" class="c">ﾁ</text>
+<text x="617" y="192" class="d">ﾌ</text>
+<text x="617" y="208" class="c">4</text>
+<text x="617" y="224" class="c">0</text>
+<text x="617" y="240" class="c">ﾙ</text>
+<text x="617" y="256" class="c">ｽ</text>
+<text x="617" y="272" class="c" style="animation:m 2.2s steps(1) -2.0s infinite">0</text>
+<text x="617" y="288" class="c">ﾊ</text>
+<text x="617" y="304" class="d">ｳ</text>
+<text x="617" y="320" class="c">ﾚ</text>
+<text x="617" y="336" class="b">ﾈ</text>
+<text x="617" y="352" class="a">ｾ</text>
+<text x="617" y="368" class="h">ﾕ</text>
+<text x="617" y="432" class="i">ｺ</text>
+<text x="617" y="448" class="g">ﾋ</text>
+<text x="617" y="464" class="f">ｨ</text>
+<text x="617" y="480" class="e">ﾀ</text>
+<text x="617" y="496" class="e" style="animation:m 2.3s steps(1) -3.5s infinite">ｽ</text>
+<text x="617" y="512" class="d">ﾎ</text>
+<text x="617" y="528" class="d">ﾛ</text>
+<text x="617" y="544" class="c">ﾗ</text>
+<text x="617" y="560" class="c">ｱ</text>
+<text x="617" y="576" class="c">ｽ</text>
+<text x="617" y="592" class="b">ｫ</text>
+<text x="617" y="608" class="a">ﾏ</text>
+<text x="617" y="624" class="h">7</text>
+</g>
+<g class="c33">
+<text x="636" y="0" class="i">ﾇ</text>
+<text x="636" y="16" class="g">ﾗ</text>
+<text x="636" y="32" class="f">ﾄ</text>
+<text x="636" y="48" class="f">ｧ</text>
+<text x="636" y="64" class="e">ﾎ</text>
+<text x="636" y="80" class="e">ﾐ</text>
+<text x="636" y="96" class="d" style="animation:m 3.1s steps(1) -1.5s infinite">ｷ</text>
+<text x="636" y="112" class="c">ﾃ</text>
+<text x="636" y="128" class="c">ｺ</text>
+<text x="636" y="144" class="d">6</text>
+<text x="636" y="160" class="d">ﾐ</text>
+<text x="636" y="176" class="c">ｿ</text>
+<text x="636" y="192" class="b">ﾋ</text>
+<text x="636" y="208" class="a">ﾕ</text>
+<text x="636" y="224" class="h">ｼ</text>
+<text x="636" y="272" class="i">ｷ</text>
+<text x="636" y="288" class="g">ｫ</text>
+<text x="636" y="304" class="f">ｹ</text>
+<text x="636" y="320" class="f">ｨ</text>
+<text x="636" y="336" class="e">ﾍ</text>
+<text x="636" y="352" class="e">ﾕ</text>
+<text x="636" y="368" class="d">4</text>
+<text x="636" y="384" class="d">ﾔ</text>
+<text x="636" y="400" class="c">ﾏ</text>
+<text x="636" y="416" class="d">ﾝ</text>
+<text x="636" y="432" class="d">ｧ</text>
+<text x="636" y="448" class="c">ｯ</text>
+<text x="636" y="464" class="b">ｴ</text>
+<text x="636" y="480" class="a">ｭ</text>
+<text x="636" y="496" class="h">ﾘ</text>
+<text x="636" y="560" class="i">ｿ</text>
+<text x="636" y="576" class="g">ｷ</text>
+<text x="636" y="592" class="g">ｲ</text>
+<text x="636" y="608" class="f">ｹ</text>
+<text x="636" y="624" class="f">ｻ</text>
+<text x="636" y="640" class="e">ﾏ</text>
+</g>
+<g class="c34">
+<text x="655" y="0" class="i">ﾅ</text>
+<text x="655" y="16" class="g">ﾀ</text>
+<text x="655" y="32" class="g">ﾉ</text>
+<text x="655" y="48" class="f">ｸ</text>
+<text x="655" y="64" class="f">ｬ</text>
+<text x="655" y="80" class="e">ｱ</text>
+<text x="655" y="96" class="e">ｧ</text>
+<text x="655" y="112" class="e">ｨ</text>
+<text x="655" y="128" class="c">ｨ</text>
+<text x="655" y="144" class="d">ｩ</text>
+<text x="655" y="160" class="c" style="animation:m 2.1s steps(1) -5.0s infinite">ﾊ</text>
+<text x="655" y="176" class="c">ｸ</text>
+<text x="655" y="192" class="c">ﾒ</text>
+<text x="655" y="208" class="d">ｭ</text>
+<text x="655" y="224" class="c">7</text>
+<text x="655" y="240" class="c">ﾚ</text>
+<text x="655" y="256" class="b">ｷ</text>
+<text x="655" y="272" class="a">ﾐ</text>
+<text x="655" y="288" class="h">ﾀ</text>
+<text x="655" y="336" class="j">ﾛ</text>
+<text x="655" y="352" class="i">ﾕ</text>
+<text x="655" y="368" class="g">2</text>
+<text x="655" y="384" class="g">ﾖ</text>
+<text x="655" y="400" class="f">ｧ</text>
+<text x="655" y="416" class="f">ﾝ</text>
+<text x="655" y="432" class="e">5</text>
+<text x="655" y="448" class="e">ﾖ</text>
+<text x="655" y="464" class="e">ﾂ</text>
+<text x="655" y="480" class="e">ｷ</text>
+<text x="655" y="496" class="c">ｵ</text>
+<text x="655" y="512" class="d">ﾘ</text>
+<text x="655" y="528" class="d">ﾂ</text>
+<text x="655" y="544" class="c">ﾌ</text>
+<text x="655" y="560" class="d">ｳ</text>
+<text x="655" y="576" class="c">ﾗ</text>
+<text x="655" y="592" class="c">ﾒ</text>
+<text x="655" y="608" class="c">7</text>
+<text x="655" y="624" class="c">ｪ</text>
+<text x="655" y="640" class="c">ｼ</text>
+</g>
+<g class="c35">
+<text x="674" y="0" class="j">ﾄ</text>
+<text x="674" y="16" class="i">ﾀ</text>
+<text x="674" y="32" class="g">ｮ</text>
+<text x="674" y="48" class="g">ｲ</text>
+<text x="674" y="64" class="g">ｺ</text>
+<text x="674" y="80" class="f">ｪ</text>
+<text x="674" y="96" class="f">ｧ</text>
+<text x="674" y="112" class="e">ｺ</text>
+<text x="674" y="128" class="e" style="animation:m 3.4s steps(1) -3.0s infinite">ﾝ</text>
+<text x="674" y="144" class="e">ﾃ</text>
+<text x="674" y="160" class="e">ﾎ</text>
+<text x="674" y="176" class="c">ｷ</text>
+<text x="674" y="192" class="c">ﾃ</text>
+<text x="674" y="208" class="d">ｷ</text>
+<text x="674" y="224" class="d">ﾐ</text>
+<text x="674" y="240" class="c">ﾄ</text>
+<text x="674" y="256" class="c">ﾂ</text>
+<text x="674" y="272" class="c">ﾌ</text>
+<text x="674" y="288" class="d">9</text>
+<text x="674" y="304" class="d">4</text>
+<text x="674" y="320" class="d">ﾜ</text>
+<text x="674" y="336" class="c">ﾒ</text>
+<text x="674" y="352" class="d">ﾖ</text>
+<text x="674" y="368" class="b">ﾎ</text>
+<text x="674" y="384" class="a">ﾇ</text>
+<text x="674" y="400" class="h">ﾛ</text>
+<text x="674" y="448" class="i">ﾌ</text>
+<text x="674" y="464" class="g">ﾖ</text>
+<text x="674" y="480" class="g">ｽ</text>
+<text x="674" y="496" class="f">ﾎ</text>
+<text x="674" y="512" class="f">ｲ</text>
+<text x="674" y="528" class="e">ｪ</text>
+<text x="674" y="544" class="e">ﾂ</text>
+<text x="674" y="560" class="e">ﾈ</text>
+<text x="674" y="576" class="c">5</text>
+<text x="674" y="592" class="c">ﾛ</text>
+<text x="674" y="608" class="c">ﾗ</text>
+<text x="674" y="624" class="c">ﾐ</text>
+<text x="674" y="640" class="c">ﾚ</text>
+</g>
+<g class="c36">
+<text x="693" y="0" class="i">ﾘ</text>
+<text x="693" y="16" class="g">ｾ</text>
+<text x="693" y="32" class="g">ｬ</text>
+<text x="693" y="48" class="f">ﾈ</text>
+<text x="693" y="64" class="f">ﾖ</text>
+<text x="693" y="80" class="e">ﾄ</text>
+<text x="693" y="96" class="e">ｫ</text>
+<text x="693" y="112" class="e">ｾ</text>
+<text x="693" y="128" class="d">ﾊ</text>
+<text x="693" y="144" class="c">ｫ</text>
+<text x="693" y="160" class="c">ﾌ</text>
+<text x="693" y="176" class="c">ﾁ</text>
+<text x="693" y="192" class="d">ｵ</text>
+<text x="693" y="208" class="c">5</text>
+<text x="693" y="224" class="d">ﾈ</text>
+<text x="693" y="240" class="c">ｴ</text>
+<text x="693" y="256" class="c">ﾖ</text>
+<text x="693" y="272" class="b">ﾁ</text>
+<text x="693" y="288" class="a">ﾓ</text>
+<text x="693" y="304" class="h">ﾍ</text>
+<text x="693" y="432" class="i">ｯ</text>
+<text x="693" y="448" class="g">0</text>
+<text x="693" y="464" class="g">ｭ</text>
+<text x="693" y="480" class="f">ｩ</text>
+<text x="693" y="496" class="e">ｲ</text>
+<text x="693" y="512" class="e">ﾊ</text>
+<text x="693" y="528" class="e">ﾙ</text>
+<text x="693" y="544" class="c">ﾕ</text>
+<text x="693" y="560" class="c">ｶ</text>
+<text x="693" y="576" class="d" style="animation:m 2.9s steps(1) -2.1s infinite">ｸ</text>
+<text x="693" y="592" class="d">ﾛ</text>
+<text x="693" y="608" class="c">ﾐ</text>
+<text x="693" y="624" class="d">ﾘ</text>
+<text x="693" y="640" class="b">ｴ</text>
+</g>
+<g class="c37">
+<text x="712" y="0" class="j">ﾑ</text>
+<text x="712" y="16" class="i">ﾆ</text>
+<text x="712" y="32" class="g">ﾏ</text>
+<text x="712" y="48" class="g">ﾗ</text>
+<text x="712" y="64" class="f">ｬ</text>
+<text x="712" y="80" class="f">ﾊ</text>
+<text x="712" y="96" class="e">ﾀ</text>
+<text x="712" y="112" class="e">ｨ</text>
+<text x="712" y="128" class="e">ﾓ</text>
+<text x="712" y="144" class="c">ﾊ</text>
+<text x="712" y="160" class="c">5</text>
+<text x="712" y="176" class="d">ｭ</text>
+<text x="712" y="192" class="c">8</text>
+<text x="712" y="208" class="c" style="animation:m 1.8s steps(1) -1.8s infinite">ﾏ</text>
+<text x="712" y="224" class="c">ﾈ</text>
+<text x="712" y="240" class="c">ｮ</text>
+<text x="712" y="256" class="c">ｽ</text>
+<text x="712" y="272" class="d">4</text>
+<text x="712" y="288" class="c" style="animation:m 2.9s steps(1) -4.9s infinite">ｨ</text>
+<text x="712" y="304" class="b">ｱ</text>
+<text x="712" y="320" class="a">ﾊ</text>
+<text x="712" y="336" class="h">ﾉ</text>
+<text x="712" y="464" class="i">ｨ</text>
+<text x="712" y="480" class="g">ｮ</text>
+<text x="712" y="496" class="g">ﾖ</text>
+<text x="712" y="512" class="f">ﾇ</text>
+<text x="712" y="528" class="f">ﾄ</text>
+<text x="712" y="544" class="e">ﾝ</text>
+<text x="712" y="560" class="e">4</text>
+<text x="712" y="576" class="e">5</text>
+<text x="712" y="592" class="c">ﾄ</text>
+<text x="712" y="608" class="d">ﾆ</text>
+<text x="712" y="624" class="c">ﾓ</text>
+<text x="712" y="640" class="c">ﾙ</text>
+</g>
+<g class="c38">
+<text x="731" y="0" class="i">ﾂ</text>
+<text x="731" y="16" class="g">ﾌ</text>
+<text x="731" y="32" class="f">ﾅ</text>
+<text x="731" y="48" class="f">ﾗ</text>
+<text x="731" y="64" class="e">ﾚ</text>
+<text x="731" y="80" class="e">ﾛ</text>
+<text x="731" y="96" class="c">ｱ</text>
+<text x="731" y="112" class="c">ｴ</text>
+<text x="731" y="128" class="d">ｧ</text>
+<text x="731" y="144" class="c">ｭ</text>
+<text x="731" y="160" class="d">ﾒ</text>
+<text x="731" y="176" class="c">2</text>
+<text x="731" y="192" class="b">ｫ</text>
+<text x="731" y="208" class="a">ﾃ</text>
+<text x="731" y="224" class="h">ﾁ</text>
+<text x="731" y="352" class="j">1</text>
+<text x="731" y="368" class="i">ｶ</text>
+<text x="731" y="384" class="g">ｪ</text>
+<text x="731" y="400" class="g">ﾈ</text>
+<text x="731" y="416" class="g">ｫ</text>
+<text x="731" y="432" class="f">6</text>
+<text x="731" y="448" class="f">ｯ</text>
+<text x="731" y="464" class="e">ﾅ</text>
+<text x="731" y="480" class="e">3</text>
+<text x="731" y="496" class="e" style="animation:m 3.8s steps(1) -3.4s infinite">ﾂ</text>
+<text x="731" y="512" class="e">ﾀ</text>
+<text x="731" y="528" class="d">ﾗ</text>
+<text x="731" y="544" class="c">ﾌ</text>
+<text x="731" y="560" class="c">ｶ</text>
+<text x="731" y="576" class="c">ﾄ</text>
+<text x="731" y="592" class="c">ﾗ</text>
+<text x="731" y="608" class="c">ﾓ</text>
+<text x="731" y="624" class="d">ｰ</text>
+<text x="731" y="640" class="c">ｬ</text>
+</g>
+<g class="c39">
+<text x="750" y="0" class="i">ﾑ</text>
+<text x="750" y="16" class="g">ｻ</text>
+<text x="750" y="32" class="f">ﾐ</text>
+<text x="750" y="48" class="f">ｼ</text>
+<text x="750" y="64" class="e">ｺ</text>
+<text x="750" y="80" class="e">ﾑ</text>
+<text x="750" y="96" class="d">ﾈ</text>
+<text x="750" y="112" class="c">ｬ</text>
+<text x="750" y="128" class="d">8</text>
+<text x="750" y="144" class="c">ﾅ</text>
+<text x="750" y="160" class="c">ｰ</text>
+<text x="750" y="176" class="c">ﾔ</text>
+<text x="750" y="192" class="b">ｯ</text>
+<text x="750" y="208" class="a">ｰ</text>
+<text x="750" y="224" class="h">ﾈ</text>
+<text x="750" y="272" class="i">ﾉ</text>
+<text x="750" y="288" class="g">ﾒ</text>
+<text x="750" y="304" class="f">ｿ</text>
+<text x="750" y="320" class="f">ｹ</text>
+<text x="750" y="336" class="e">ﾌ</text>
+<text x="750" y="352" class="e">ﾔ</text>
+<text x="750" y="368" class="c">8</text>
+<text x="750" y="384" class="c">ﾏ</text>
+<text x="750" y="400" class="c">ｱ</text>
+<text x="750" y="416" class="c">ｵ</text>
+<text x="750" y="432" class="c" style="animation:m 2.4s steps(1) -4.5s infinite">ｳ</text>
+<text x="750" y="448" class="b">ｺ</text>
+<text x="750" y="464" class="a">ﾒ</text>
+<text x="750" y="480" class="h">ﾏ</text>
+<text x="750" y="576" class="j">ｧ</text>
+<text x="750" y="592" class="i">ﾋ</text>
+<text x="750" y="608" class="g">ﾚ</text>
+<text x="750" y="624" class="g">ﾗ</text>
+<text x="750" y="640" class="f">ﾑ</text>
+</g>
+<g class="c40">
+<text x="769" y="0" class="i">3</text>
+<text x="769" y="16" class="g">ｵ</text>
+<text x="769" y="32" class="f">3</text>
+<text x="769" y="48" class="e">ﾅ</text>
+<text x="769" y="64" class="e">ｻ</text>
+<text x="769" y="80" class="c">ｷ</text>
+<text x="769" y="96" class="c">ｭ</text>
+<text x="769" y="112" class="c">ﾝ</text>
+<text x="769" y="128" class="c">ｫ</text>
+<text x="769" y="144" class="c">ﾆ</text>
+<text x="769" y="160" class="b">ﾊ</text>
+<text x="769" y="176" class="a">ｾ</text>
+<text x="769" y="192" class="h">ｭ</text>
+<text x="769" y="320" class="j">ｿ</text>
+<text x="769" y="336" class="i">ｨ</text>
+<text x="769" y="352" class="g">ｳ</text>
+<text x="769" y="368" class="g">ｷ</text>
+<text x="769" y="384" class="f">ﾌ</text>
+<text x="769" y="400" class="f">ｦ</text>
+<text x="769" y="416" class="e">9</text>
+<text x="769" y="432" class="e">ﾙ</text>
+<text x="769" y="448" class="e">ﾔ</text>
+<text x="769" y="464" class="c">ﾐ</text>
+<text x="769" y="480" class="d">ｺ</text>
+<text x="769" y="496" class="c">ｻ</text>
+<text x="769" y="512" class="c">ｫ</text>
+<text x="769" y="528" class="c">ﾎ</text>
+<text x="769" y="544" class="d">ｿ</text>
+<text x="769" y="560" class="d">ﾒ</text>
+<text x="769" y="576" class="c">ﾉ</text>
+<text x="769" y="592" class="c">ﾔ</text>
+<text x="769" y="608" class="b">ｶ</text>
+<text x="769" y="624" class="a">ｿ</text>
+<text x="769" y="640" class="h">ｹ</text>
+</g>
+<g class="c41">
+<text x="788" y="0" class="i">ﾅ</text>
+<text x="788" y="16" class="g">ﾐ</text>
+<text x="788" y="32" class="g">ｴ</text>
+<text x="788" y="48" class="f">ｩ</text>
+<text x="788" y="64" class="f">9</text>
+<text x="788" y="80" class="e">ﾋ</text>
+<text x="788" y="96" class="e">ﾈ</text>
+<text x="788" y="112" class="e">ﾔ</text>
+<text x="788" y="128" class="d">ｮ</text>
+<text x="788" y="144" class="c">ﾄ</text>
+<text x="788" y="160" class="d">ﾌ</text>
+<text x="788" y="176" class="d">ｹ</text>
+<text x="788" y="192" class="c">ｯ</text>
+<text x="788" y="208" class="d">ｫ</text>
+<text x="788" y="224" class="d">ｮ</text>
+<text x="788" y="240" class="d">ﾛ</text>
+<text x="788" y="256" class="c">ﾇ</text>
+<text x="788" y="272" class="b">ｲ</text>
+<text x="788" y="288" class="a">ｺ</text>
+<text x="788" y="304" class="h">ｿ</text>
+<text x="788" y="368" class="j">ｳ</text>
+<text x="788" y="384" class="i">ﾐ</text>
+<text x="788" y="400" class="g">ﾅ</text>
+<text x="788" y="416" class="g">ﾂ</text>
+<text x="788" y="432" class="g">ﾃ</text>
+<text x="788" y="448" class="f">ﾓ</text>
+<text x="788" y="464" class="f">ｻ</text>
+<text x="788" y="480" class="e">ﾀ</text>
+<text x="788" y="496" class="e">ｶ</text>
+<text x="788" y="512" class="e">ﾄ</text>
+<text x="788" y="528" class="e">ﾎ</text>
+<text x="788" y="544" class="c" style="animation:m 2.1s steps(1) -2.4s infinite">ｳ</text>
+<text x="788" y="560" class="d">ｵ</text>
+<text x="788" y="576" class="d">ﾂ</text>
+<text x="788" y="592" class="c">ｩ</text>
+<text x="788" y="608" class="d">ﾆ</text>
+<text x="788" y="624" class="c">ｩ</text>
+<text x="788" y="640" class="c">ﾛ</text>
+</g>
+<g class="c42">
+<text x="807" y="0" class="i">ﾘ</text>
+<text x="807" y="16" class="g">8</text>
+<text x="807" y="32" class="f">ﾋ</text>
+<text x="807" y="48" class="e">ｸ</text>
+<text x="807" y="64" class="e">ﾑ</text>
+<text x="807" y="80" class="c">ｰ</text>
+<text x="807" y="96" class="c">ｲ</text>
+<text x="807" y="112" class="d">ｧ</text>
+<text x="807" y="128" class="c">ｫ</text>
+<text x="807" y="144" class="c">ｨ</text>
+<text x="807" y="160" class="b">ﾀ</text>
+<text x="807" y="176" class="a">ｳ</text>
+<text x="807" y="192" class="h">ﾄ</text>
+<text x="807" y="240" class="j">7</text>
+<text x="807" y="256" class="i">ﾌ</text>
+<text x="807" y="272" class="g">ﾅ</text>
+<text x="807" y="288" class="g">ｰ</text>
+<text x="807" y="304" class="f">ｼ</text>
+<text x="807" y="320" class="f">ｴ</text>
+<text x="807" y="336" class="f">ｺ</text>
+<text x="807" y="352" class="e">ﾐ</text>
+<text x="807" y="368" class="e">ｩ</text>
+<text x="807" y="384" class="e">ﾙ</text>
+<text x="807" y="400" class="c">ｿ</text>
+<text x="807" y="416" class="c">ｩ</text>
+<text x="807" y="432" class="c">ｧ</text>
+<text x="807" y="448" class="c">ｦ</text>
+<text x="807" y="464" class="c">ﾉ</text>
+<text x="807" y="480" class="c">ｷ</text>
+<text x="807" y="496" class="d">ｽ</text>
+<text x="807" y="512" class="c">ｨ</text>
+<text x="807" y="528" class="d">ﾜ</text>
+<text x="807" y="544" class="d">ﾎ</text>
+<text x="807" y="560" class="d">ﾘ</text>
+<text x="807" y="576" class="b">ﾒ</text>
+<text x="807" y="592" class="a">ﾓ</text>
+<text x="807" y="608" class="h">ﾚ</text>
+</g>
+<g class="c43">
+<text x="826" y="0" class="i">ｼ</text>
+<text x="826" y="16" class="g">ﾖ</text>
+<text x="826" y="32" class="g">ﾄ</text>
+<text x="826" y="48" class="f">ﾈ</text>
+<text x="826" y="64" class="f">ﾔ</text>
+<text x="826" y="80" class="e">ﾌ</text>
+<text x="826" y="96" class="e">ｹ</text>
+<text x="826" y="112" class="e">ｷ</text>
+<text x="826" y="128" class="c">ﾍ</text>
+<text x="826" y="144" class="c">ﾆ</text>
+<text x="826" y="160" class="c">ﾛ</text>
+<text x="826" y="176" class="d">ﾗ</text>
+<text x="826" y="192" class="c">ｿ</text>
+<text x="826" y="208" class="d">7</text>
+<text x="826" y="224" class="d">ｻ</text>
+<text x="826" y="240" class="c">ｽ</text>
+<text x="826" y="256" class="b">ｧ</text>
+<text x="826" y="272" class="a">ｽ</text>
+<text x="826" y="288" class="h">ｬ</text>
+<text x="826" y="400" class="j">9</text>
+<text x="826" y="416" class="i">ｧ</text>
+<text x="826" y="432" class="g">ｬ</text>
+<text x="826" y="448" class="g">ｷ</text>
+<text x="826" y="464" class="f">ｾ</text>
+<text x="826" y="480" class="f">ﾖ</text>
+<text x="826" y="496" class="f">ﾗ</text>
+<text x="826" y="512" class="e">ｵ</text>
+<text x="826" y="528" class="e">ｭ</text>
+<text x="826" y="544" class="e">ｬ</text>
+<text x="826" y="560" class="e">ﾙ</text>
+<text x="826" y="576" class="c">ｰ</text>
+<text x="826" y="592" class="c" style="animation:m 2.1s steps(1) -3.6s infinite">ﾋ</text>
+<text x="826" y="608" class="c">ｶ</text>
+<text x="826" y="624" class="c">ｴ</text>
+<text x="826" y="640" class="d">ｴ</text>
+</g>
+</svg>
