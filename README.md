@@ -21,3 +21,11 @@
     <img alt="3D contribution graph" src="./profile-3d-contrib/profile-green-animate.svg" width="100%" />
   </picture>
 </p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ko5tas/ko5tas/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ko5tas/ko5tas/output/pacman-contribution-graph-light.svg" />
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ko5tas/ko5tas/output/pacman-contribution-graph-dark.svg" width="100%" />
+  </picture>
+</p>
