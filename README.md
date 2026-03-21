@@ -8,14 +8,6 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ko5tas/ko5tas/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ko5tas/ko5tas/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ko5tas/ko5tas/output/github-contribution-grid-snake.svg" width="100%" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-green-animate.svg" />
     <img alt="3D contribution graph" src="./profile-3d-contrib/profile-green-animate.svg" width="100%" />
@@ -29,3 +21,13 @@
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ko5tas/ko5tas/output/pacman-contribution-graph-dark.svg" width="100%" />
   </picture>
 </p>
+
+<!--
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ko5tas/ko5tas/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ko5tas/ko5tas/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ko5tas/ko5tas/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</p>
+-->
